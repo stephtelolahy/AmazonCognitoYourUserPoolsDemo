@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/stephanotelolahy/Downloads/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/stephanotelolahy/.android/build-cache/f1a038c693ce04b52194b8d4ff4f54092e3bfb79/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/stephanotelolahy/Downloads/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/stephanotelolahy/.android/build-cache/f1a038c693ce04b52194b8d4ff4f54092e3bfb79/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/stephanotelolahy/Downloads/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/stephanotelolahy/.android/build-cache/f1a038c693ce04b52194b8d4ff4f54092e3bfb79/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/stephanotelolahy/Downloads/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/stephanotelolahy/.android/build-cache/f1a038c693ce04b52194b8d4ff4f54092e3bfb79/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/stephanotelolahy/Downloads/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/stephanotelolahy/.android/build-cache/f1a038c693ce04b52194b8d4ff4f54092e3bfb79/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/stephanotelolahy/Downloads/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/stephanotelolahy/.android/build-cache/f1a038c693ce04b52194b8d4ff4f54092e3bfb79/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/stephanotelolahy/Downloads/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/stephanotelolahy/.android/build-cache/f1a038c693ce04b52194b8d4ff4f54092e3bfb79/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/stephanotelolahy/Downloads/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/stephanotelolahy/.android/build-cache/f1a038c693ce04b52194b8d4ff4f54092e3bfb79/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/stephanotelolahy/Downloads/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/stephanotelolahy/.android/build-cache/f1a038c693ce04b52194b8d4ff4f54092e3bfb79/output/res/color/abc_secondary_text_material_dark.xml"
+    }
+]

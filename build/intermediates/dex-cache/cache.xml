@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/stephanotelolahy/.android/build-cache/5eb575b49a5f3358a1efab390da7bffaeb3325d2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/stephanotelolahy/Downloads/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/pre-dexed/debug/classes_d932a87ed5a74a1fd9d88753cbd095c5eb7704ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephanotelolahy/.android/build-cache/c47258076b4b876712d6d451271bcbf6b63c80cd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/stephanotelolahy/Downloads/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/pre-dexed/debug/classes_16704f2f87f7ee4f0bc6cd97f8feacc42ff6d17c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephanotelolahy/.android/build-cache/340a40245752a5adcbdf9d8c091e2df5d6ea93d3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/stephanotelolahy/Downloads/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/pre-dexed/debug/classes_a0a9024023f8968430807bfde1972062e37d1140.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephanotelolahy/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/stephanotelolahy/Downloads/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/pre-dexed/debug/okio-1.9.0_66f453b04e71be002ddb1aff62a12efe1740566b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephanotelolahy/.android/build-cache/da4a4fed22764c281df3ae519c3ff9ab52f39e6f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fab3c7faab3bc30df0fbf2cbebfcb21753c95260">
+        <dex dex="/Users/stephanotelolahy/Downloads/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/pre-dexed/debug/classes_9d3d113c0da9a9d23536c9d0efcae78c71d9aa16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephanotelolahy/.android/build-cache/0fcc10ff8e4e767c418071e67f98a8449d9892fe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="91d213f056515b6c839364717ae0f34799ed25b7">
+        <dex dex="/Users/stephanotelolahy/Downloads/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/pre-dexed/debug/classes_8a5c36840e2e2366d6f3662cf1b8556fc4613cc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephanotelolahy/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-cognitoidentityprovider/2.6.8/5eb49ba3a8421eb4a80f36fc233cd4194963a663/aws-android-sdk-cognitoidentityprovider-2.6.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5eb49ba3a8421eb4a80f36fc233cd4194963a663">
+        <dex dex="/Users/stephanotelolahy/Downloads/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/pre-dexed/debug/aws-android-sdk-cognitoidentityprovider-2.6.8_2e50d00b4e33dc0375fbc97610ba21125b760463.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephanotelolahy/.android/build-cache/1c03ad1033934202f9d2de83b22bababe9d84c44/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/stephanotelolahy/Downloads/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_4f57cdaf1dcef2389ef251d63f4dd7b607a88729.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephanotelolahy/.android/build-cache/1c03ad1033934202f9d2de83b22bababe9d84c44/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/stephanotelolahy/Downloads/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/pre-dexed/debug/classes_93bd05784e5c688e8f4c848d43db9224827ee19f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephanotelolahy/.android/build-cache/57e36d7957e7df103c2143621d36f1c65fa3a952/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b81d40d208a3308c8e81b2cccd3054238a13d140">
+        <dex dex="/Users/stephanotelolahy/Downloads/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/pre-dexed/debug/classes_f0dfd7d05b0c7c35d00aab47027d98911c2166b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephanotelolahy/.android/build-cache/c1fbaee8ae04522cc545f0c7c17e93c6616d556e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/stephanotelolahy/Downloads/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/pre-dexed/debug/classes_9812f9c00f73b6c9773555dd7de4781cd7b761b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephanotelolahy/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/stephanotelolahy/Downloads/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_ccfbc8906f41f99dbf2a8e64d40801c44efcebf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephanotelolahy/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/stephanotelolahy/Downloads/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/pre-dexed/debug/gson-2.2.4_92c95795512c20d3deb18b953414a05374fff95f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephanotelolahy/.android/build-cache/16d78a1e5785fcbd99cd5e6f87de38042ffd4c3a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/stephanotelolahy/Downloads/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/pre-dexed/debug/classes_45d52fe9f5e5e7a88bea4539f6dd103f0c6d2e0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephanotelolahy/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta3/constraint-layout-solver-1.0.0-beta3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="22c1e9d26251df254de7cc9dee01f5f134b10eba">
+        <dex dex="/Users/stephanotelolahy/Downloads/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-beta3_d48aff2d9a238970d11170d2c0aa0d13e1367c2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephanotelolahy/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/Users/stephanotelolahy/Downloads/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/pre-dexed/debug/commons-cli-1.2_83d48dd04019b88bdb4c4a0f121d9a6690891ec6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephanotelolahy/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/stephanotelolahy/Downloads/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/pre-dexed/debug/jsr305-2.0.1_e083fd818ed2970c79d9f19833946363d8bb2f66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephanotelolahy/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-core/2.6.8/996540bd90ccac5a0845c2f079af73c6469a03c5/aws-android-sdk-core-2.6.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="996540bd90ccac5a0845c2f079af73c6469a03c5">
+        <dex dex="/Users/stephanotelolahy/Downloads/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/pre-dexed/debug/aws-android-sdk-core-2.6.8_15ad89a65f613a70a28deb49d25a5ed8e22c4029.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephanotelolahy/.android/build-cache/f1a038c693ce04b52194b8d4ff4f54092e3bfb79/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/stephanotelolahy/Downloads/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/pre-dexed/debug/classes_1cf5cde4971685b057eed33983ac88c8666262c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephanotelolahy/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.2/ccde00f7ccc77af5a6d5752e2cb21f6d8998289f/okhttp-3.4.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ccde00f7ccc77af5a6d5752e2cb21f6d8998289f">
+        <dex dex="/Users/stephanotelolahy/Downloads/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/pre-dexed/debug/okhttp-3.4.2_add2b6260a8a4c86ed472de613de70ff85c3b5b7.jar" />
+    </item>
+
+</items>

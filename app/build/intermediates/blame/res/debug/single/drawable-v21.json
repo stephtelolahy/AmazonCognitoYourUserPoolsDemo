@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/stephanotelolahy/Downloads/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/stephanotelolahy/.android/build-cache/f1a038c693ce04b52194b8d4ff4f54092e3bfb79/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/stephanotelolahy/Downloads/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/stephanotelolahy/.android/build-cache/f1a038c693ce04b52194b8d4ff4f54092e3bfb79/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/stephanotelolahy/Downloads/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/stephanotelolahy/.android/build-cache/f1a038c693ce04b52194b8d4ff4f54092e3bfb79/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

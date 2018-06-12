@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/stephanotelolahy/Downloads/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/Users/stephanotelolahy/.android/build-cache/f1a038c693ce04b52194b8d4ff4f54092e3bfb79/output/res/values-port/values-port.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    }
+]
