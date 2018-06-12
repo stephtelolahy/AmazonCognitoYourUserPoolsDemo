@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Jun 12 15:54:55 CEST 2018
+#Tue Jun 12 16:47:48 CEST 2018
 210.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
 180.file=/Users/stephanotelolahy/Downloads/aws-sdk-android-samples-master/AmazonCognitoYourUserPoolsDemo/app/build/intermediates/res/resources-debug.ap_/res/layout/abc_action_menu_layout.xml

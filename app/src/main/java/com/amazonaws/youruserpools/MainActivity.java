@@ -528,7 +528,7 @@ public class MainActivity extends AppCompatActivity {
     AuthenticationHandler authenticationHandler = new AuthenticationHandler() {
         @Override
         public void onSuccess(CognitoUserSession cognitoUserSession, CognitoDevice device) {
-            Log.d(TAG, " -- Auth Success Token:" + cognitoUserSession.getAccessToken().getJWTToken());
+            Log.d(TAG, " -- Auth Success Token:" + cognitoUserSession.getIdToken().getJWTToken());
             AppHelper.setCurrSession(cognitoUserSession);
             AppHelper.newDevice(device);
             closeWaitDialog();
